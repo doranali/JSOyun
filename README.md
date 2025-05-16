@@ -61,6 +61,7 @@ Bu proje aşağıdaki teknolojiler ve araçlar kullanılarak geliştirilmiştir:
 *  **Ses ve Efektler**: Oyun içerisinde yer alan ana oyun sesi, düşman vurma efekti ve oyun bitme sesleri https://pixabay.com/tr/sound-effects/search/oyun/ sitesinden alınmıştır.
 
 **Yazar:** Ali Doran
-**Youtube Oynanış Linki:** 
+
+**Youtube Oynanış Linki:** https://youtu.be/e1yysvxHmRk
    
 >  Proje tamamen HTML,CSS ,JavaScript ve canvas ile  yazılmıştır.
