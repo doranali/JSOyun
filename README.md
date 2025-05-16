@@ -5,6 +5,9 @@ Oyunun ismi: Amalga
 
 Orjinal oyunun linki: https://waytoomuchrice.itch.io/amalga
 
+![image](https://github.com/user-attachments/assets/530435d6-5b38-439a-820b-d37bef93011a)
+
+
 Amacımız Unity teknolojisi ile geliştirilen bu oyunu HTML5, JS ve canvas ile temel mekaniğine uygun olarak tekrardan kodlamak.
 
 İşte projemizden bazı kesitler;
@@ -57,6 +60,7 @@ Bu proje aşağıdaki teknolojiler ve araçlar kullanılarak geliştirilmiştir:
 *  **Görsel Varlıklar (Assets)**: Oyuncu ve düşman tank görselleri PNG formatında https://hive.blog/utopian-io/@granturismo89/tank-design-for-2d-tanks sitesinden alınmıştır.
 *  **Ses ve Efektler**: Oyun içerisinde yer alan ana oyun sesi, düşman vurma efekti ve oyun bitme sesleri https://pixabay.com/tr/sound-effects/search/oyun/ sitesinden alınmıştır.
 
-
+**Yazar:** Ali Doran
+**Youtube Oynanış Linki:** 
    
 >  Proje tamamen HTML,CSS ,JavaScript ve canvas ile  yazılmıştır.
