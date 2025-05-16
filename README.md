@@ -1,7 +1,7 @@
 #  Amalga
 Amalga 2021 yılında GMTK Game Jam yarışmasında ilk %10 a girmeyi başaran Unity teknolojileri kullanılarak geliştirilen 2 boyutlu arena oyunudur. Oyuncu, yön tuşlarıyla kontrol ettiği karekteriyle düşman mermilerinden kaçmaya çalışır, vurduğu düşmanları da toplayarak boyut ve güç kazanır.
-Oyunun ismi: Amalga
-Orjinal oyunun linki: https://waytoomuchrice.itch.io/amalga
+*Oyunun ismi: Amalga
+*Orjinal oyunun linki: https://waytoomuchrice.itch.io/amalga
 
 Amacımız Unity teknolojisi ile geliştirilen bu oyunu HTML5, JS ve canvas ile temel mekaniğine uygun olarak tekrardan kodlamak.
 
