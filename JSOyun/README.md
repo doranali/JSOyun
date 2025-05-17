@@ -31,7 +31,7 @@ Arena içerisine belirli aralıklarla gelen bu tehlikeli bölgeler, oyuncunun st
 
 **Not**: Orjinal oyunda redzone tarzı bir mekanik içermiyor. Orjinallik açısından eklenmiştir.
 
-##Kontroller ve Mekanikleri
+##  Kontroller ve Mekanikleri
 Tekrardan anlatmak gerekirse oyundaki amacımız düşmanları öldürerek ve büyüyüp gelişerek hayatta kalma. Kontroller için klavyede WASD tuşları ve farede ise sadece fare imleci kullanılıyor. WASD ile mermilerden kaçıyoruz , fare imlecimiz yönü doğrultusunda ise otomatik ateş edebiliyoruz. Faremiz ile tıklama gereksinizmiz yoktur. Tasarımızız responsive yapıdadır ve ekran boyutunu istediğiniz gibi ölçeklendirebilirsiniz. Ama iyi bir oyun deneyimi için tam ekranda oynamanız önerilir. Ayrıca oyuncu için karakterimiz imlec yönünde dönme hareketi yapabiliyor aynı şekilde düşmanlarda oyuncuya doğru . Oyuncumuzun 4 canı var. Müttefiklerimizin ise tek canı vardır. Gerekli oyun bilgileri oyunun sol üst köşesinde yazıyor.
 
 ##  Kurulum ve Çalıştırma
