@@ -33,14 +33,16 @@ Arena içerisine belirli aralıklarla gelen bu tehlikeli bölgeler, oyuncunun st
 
 ##  Kurulum ve Çalıştırma
 
-Amalga'yı kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
+Bu oyunu kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
-1.  Bu repoyu klonlayın:
+### 1. Bu repoyu klonlayın:
 
-    ```bash
-    git clone [https://github.com/kullanici_adiniz/amalga.git](https://github.com/kullanici_adiniz/amalga.git)
-    cd amalga
-    ```
+   ```bash
+git clone https://github.com/doranali/doranali.github.io.git
+cd doranali.github.io/JSOyun
+```
+Veya doğrudan GitHub üzerinden ZIP olarak indirin:
+https://github.com/doranali/doranali.github.io/archive/refs/heads/main.zip
 
 2.  Gerekli dosyaların olduğundan emin olun:
     * `index.html`
