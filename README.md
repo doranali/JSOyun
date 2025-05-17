@@ -64,6 +64,7 @@ Bu proje aşağıdaki teknolojiler ve araçlar kullanılarak geliştirilmiştir:
 *  **JavaScript**: Oyun mantığı, kullanıcı etkileşimleri, düşman yapay zekâsı, ses kontrolü ve oyun döngüsünün yönetimi için ana programlama dili olarak kullanılmıştır.
 *  **Görsel Varlıklar (Assets)**: Oyuncu ve düşman tank görselleri PNG formatında https://hive.blog/utopian-io/@granturismo89/tank-design-for-2d-tanks sitesinden alınmıştır.
 *  **Ses ve Efektler**: Oyun içerisinde yer alan ana oyun sesi, düşman vurma efekti ve oyun bitme sesleri https://pixabay.com/tr/sound-effects/search/oyun/ sitesinden alınmıştır.
+*  **Kullanılan Yapay Zeka Araçları:** Bu proje kodlanmasında yapay zeka aracı olarak ChatGPT den yardım alınmıştır. AI.md dosyasında bulunan link üzerinden kullanılan tüm promtlara ve cevaplara ulaşabilirsiniz.
 
 **Yazar:** Ali Doran
 
