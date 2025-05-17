@@ -31,6 +31,9 @@ Arena içerisine belirli aralıklarla gelen bu tehlikeli bölgeler, oyuncunun st
 
 **Not**: Orjinal oyunda redzone tarzı bir mekanik içermiyor. Orjinallik açısından eklenmiştir.
 
+##Kontroller ve Mekanikleri
+Tekrardan anlatmak gerekirse oyundaki amacımız düşmanları öldürerek ve büyüyüp gelişerek hayatta kalma. Kontroller için klavyede WASD tuşları ve farede ise sadece fare imleci kullanılıyor. WASD ile mermilerden kaçıyoruz , fare imlecimiz yönü doğrultusunda ise otomatik ateş edebiliyoruz. Faremiz ile tıklama gereksinizmiz yoktur. Tasarımızız responsive yapıdadır ve ekran boyutunu istediğiniz gibi ölçeklendirebilirsiniz. Ama iyi bir oyun deneyimi için tam ekranda oynamanız önerilir. Ayrıca oyuncu için karakterimiz imlec yönünde dönme hareketi yapabiliyor aynı şekilde düşmanlarda oyuncuya doğru . Oyuncumuzun 4 canı var. Müttefiklerimizin ise tek canı vardır. Gerekli oyun bilgileri oyunun sol üst köşesinde yazıyor.
+
 ##  Kurulum ve Çalıştırma
 
 Bu oyunu kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
@@ -58,7 +61,7 @@ https://github.com/doranali/doranali.github.io/archive/refs/heads/main.zip
 
     Tüm modern tarayıcılarla uyumludur (Chrome, Firefox, Edge).
 
- #  Kullanılan Teknolojiler
+ ##  Kullanılan Teknolojiler
 
 Bu proje aşağıdaki teknolojiler ve araçlar kullanılarak geliştirilmiştir:
 
@@ -68,8 +71,8 @@ Bu proje aşağıdaki teknolojiler ve araçlar kullanılarak geliştirilmiştir:
 *  **Ses ve Efektler**: Oyun içerisinde yer alan ana oyun sesi, düşman vurma efekti ve oyun bitme sesleri https://pixabay.com/tr/sound-effects/search/oyun/ sitesinden alınmıştır.
 *  **Kullanılan Yapay Zeka Araçları:** Bu proje kodlanmasında yapay zeka aracı olarak ChatGPT den yardım alınmıştır. AI.md dosyasında bulunan link üzerinden kullanılan tüm promtlara ve cevaplara ulaşabilirsiniz.
 
+## Teşekkürler
 **Yazar:** Ali Doran
-
 **Youtube Oynanış Linki:** https://youtu.be/E4_vNSAijAU
    
 >  Proje tamamen HTML,CSS ,JavaScript ve canvas ile  yazılmıştır.
