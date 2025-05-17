@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Amalga</title>
+  <meta name="author" content="Ali_Doran">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <link rel="stylesheet" href="style.css" /> <!-- Harici CSS dosyasi baglantisi -->
+</head>
+<body>
+
+  <!-- Oyun alanini cizmek icin canvas Not: burada genişlik ve yükselklik belirtmiştik ama responsive yapmak buraları JS ile ayarlayacağız. -->
+  <canvas id="oyunAlani" ></canvas>
+
+  <!-- Skor, raund, can gibi bilgiler not: bunu display none yaptık daha okunurluk için oyun ortamına taşıdık-->
+  <div id="arayuz"></div>
+
+  <!-- Raund baslangic yazisi -->
+  <div id="raundYazisi"></div>
+
+  <!-- Oyun bitisi (Game Over) ekrani -->
+  <div id="bitisEkrani">
+    <h1>Amalga</h1>
+    <p id="oyunBittiYazisi" style="display:none;"></p>
+    <p id="skorTablosu" style="font-size: 18px; margin-top: 10px;"></p>
+
+    <!-- Buton grubu kapsayici (ileri stil icin) -->
+    <div class="buton-grubu">
+      <button id="baslatButon">Tekrar Oyna</button>
+    </div>
+  </div>
+
+  <!-- Ses ac/kapa butonu -->
+  <button id="sesButon">Ses Açık</button>
+
+  <!-- JS dosyasi en sonda yuklenir -->
+  <script src="oyun.js"></script>
+</body>
+</html>
