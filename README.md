@@ -13,14 +13,19 @@ Amacımız Unity teknolojisi ile geliştirilen bu oyunu HTML5, JS ve canvas ile 
 İşte projemizden bazı kesitler;
 
 Öldürülen düşmanların bazıları müttefiğe dönüşebilir; 
-![image](https://github.com/user-attachments/assets/c6bebbeb-e1b8-45a4-a834-001376a21241)
+
+![image](https://github.com/user-attachments/assets/0a43a3df-ea48-43dc-8a6c-a60c6eb1a799)
+
 
 Eğer oyuncu yeni müttefiklerine dokunursa müttefikler oyuncuya katılır ve onunla birlikte savaşır;
-![image](https://github.com/user-attachments/assets/95b9d17c-1c53-49f1-94a6-baa9fcc366c9)
+
+![image](https://github.com/user-attachments/assets/f1e58c6c-2abf-485c-ba40-1bfc393f7397)
+
 
 Oyun, kullanıcıya her yeni dalgada artan zorluk seviyesi ve zamanla ortaya çıkan kırmızı ölüm bölgeleri (Red Zone) ile mücadele sunar;
 
-![image](https://github.com/user-attachments/assets/3b137f2b-40ea-458c-a562-fd9380298454)
+![image](https://github.com/user-attachments/assets/1405de0c-e40f-48c3-bfa0-c7759150835f)
+
 
 Arena içerisine belirli aralıklarla gelen bu tehlikeli bölgeler, oyuncunun stratejik olarak hareket etmesini zorunlu kılar.
 
