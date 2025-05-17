@@ -62,6 +62,6 @@ Bu proje aşağıdaki teknolojiler ve araçlar kullanılarak geliştirilmiştir:
 
 **Yazar:** Ali Doran
 
-**Youtube Oynanış Linki:** https://youtu.be/e1yysvxHmRk
+**Youtube Oynanış Linki:** https://youtu.be/E4_vNSAijAU
    
 >  Proje tamamen HTML,CSS ,JavaScript ve canvas ile  yazılmıştır.
